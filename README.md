@@ -4,6 +4,8 @@ t1.js ~ t10.jsはスライドに書いてある内容
 
 確認を取りながら進めていこう
 
+q1.js~q5.jsは確認用です
+
 
 ex)t1.jsを実行したいとき
 
@@ -26,9 +28,9 @@ node t2git commit -m "first commit"
 
 
 
-(help)
 
-# Q)  [node t1]を打っても実行されない!!
+
+# (help) [node t1]を打っても実行されない!!
 
 ## パターン1. 
 
