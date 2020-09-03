@@ -1,8 +1,6 @@
-let x = 3;
-let y = 4;
-let count = change(x, y);
+let count = change(2, 3);
 console.log(count);
 
-function change() {
+function change(x, y) {
   return x + y;
 }

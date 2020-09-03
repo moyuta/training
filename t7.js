@@ -1,9 +1,9 @@
-let a = 1;
+let turn = 1;
 
-while (true) {
-  a = a + 1;
-  if (a == 7) {
-    break;
-  }
-  console.log(a);
+if (turn == 1) {
+  console.log("黒のターン");
+} else if ((turn = -1)) {
+  console.log("白のターン");
+} else {
+  console.log("最初のターン");
 }
